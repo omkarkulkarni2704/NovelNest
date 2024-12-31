@@ -37,7 +37,7 @@ A user-friendly Online Bookstore project in which users can log in or register, 
 - **BootStrap 5:** Responsive and mobile-first design.
 
 ### 2. Back-End Development:
-- **Java:** Core programming language for business logic.
+- **Java:** Core programming language for business logic.    
 - **Spring Boot:** Framework for building the backend application.
 - **Spring Data JPA:** Simplifies database interactions.
 - **Spring Web:** Facilitates REST API creation.
