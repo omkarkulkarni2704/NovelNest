@@ -6,13 +6,13 @@
 ## 🌟 Key Features
 
 ### 🛍️ For Users:
-1. **User Authentication**:
+*  **User Authentication**:
    - Secure login and registration system.
-2. **Browse and Purchase Books**:
+*  **Browse and Purchase Books**:
    - View the catalog of available books.
    - Select desired books and specify quantities.
    - Complete purchases using integrated payment options.
-3. **Payment Receipts**:
+*  **Payment Receipts**:
    - Automatically generated receipts for successful transactions.
 
 ### 🔧 For Administrators:
