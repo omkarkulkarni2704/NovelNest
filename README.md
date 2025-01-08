@@ -1,54 +1,84 @@
-# Novel Nest           
+# 📚 Novel Nest - Your Online Bookstore 🛒
 
-## About      
- 
-A user-friendly Online Bookstore project in which users can log in or register, view the available books, select books along with their quantity, and buy them. Users can also get payment receipts after successful payment. The project can also be used by the administrator, who can add new books, remove books, increase and decrease the quantity of books, change the price of the books as well as maintain the selling history of books.     
- 
-<span style="color:blue">**Admin Have Following Access for this online store site:-**</span>                         
-- Add New Books.   
-- View Books Available.   
-- Remove Books.   
-- Edit Books.      
+**Novel Nest** is a user-friendly online bookstore where users can browse, select, and purchase books seamlessly. The platform supports both user and admin functionalities, enabling a smooth shopping experience for readers and efficient management for administrators.
 
-## Key Features: 
 
-### 1. For Users:
-- User Authentication: Secure login and registration system.
-- **Browse and Purchase Books:**
-    - View the list of available books.
-    - Select desired books and specify the quantity.
-    - Complete purchases with integrated payment options.
-- **Payment Receipts:** Automatically generated receipts for successful transactions.
+## 🌟 Key Features
 
-### 2. For Administrators:
-- **Book Management:**
-    - Add new books to the inventory.
-    - Update book details, including quantity and price.
-    - Remove books from the catalog.
-- **View Inventory:** Monitor all available books and their details.
-- **Sales Tracking:** Maintain a record of book sales and history for better analysis and management.
+### 🛍️ For Users:
+1. **User Authentication**:
+   - Secure login and registration system.
+2. **Browse and Purchase Books**:
+   - View the catalog of available books.
+   - Select desired books and specify quantities.
+   - Complete purchases using integrated payment options.
+3. **Payment Receipts**:
+   - Automatically generated receipts for successful transactions.
 
-  
-## Technologies Used:
+### 🔧 For Administrators:
+1. **Book Management**:
+   - Add new books to the inventory.
+   - Update book details, including quantity and price.
+   - Remove books from the catalog.
+2. **View Inventory**:
+   - Monitor all available books and their details.
+3. **Sales Tracking**:
+   - Maintain a record of book sales and history for better analysis and management.
+
+
+## 🛠️ Technologies Used
 
 ### 1. Front-End Development:
-- **HTML:** Structure and layout of web pages.
-- **CSS:** Styling and enhancing visual design.
-- **BootStrap 5:** Responsive and mobile-first design.
+- **HTML**: Defines the structure and layout of web pages.
+- **CSS**: Adds styling for a visually appealing design.
+- **Bootstrap 5**: Ensures responsive and mobile-first user interfaces.
 
 ### 2. Back-End Development:
-- **Java:** Core programming language for business logic.    
-- **Spring Boot:** Framework for building the backend application.
-- **Spring Data JPA:** Simplifies database interactions.
-- **Spring Web:** Facilitates REST API creation.
-- **MySQL Driver:** Connects the application to the database.
-- **XML:** Configuration and data exchange.
+- **Java**: Implements business logic.
+- **Spring Boot**: Simplifies backend development.
+- **Spring Data JPA**: Facilitates database interactions.
+- **Spring Web**: Creates RESTful APIs for communication.
+- **MySQL Driver**: Connects the application to the database.
+- **XML**: Handles configuration and data exchange.
 
 ### 3. Database:
-- **MySQL:** For storing book inventory, user data, and sales records.
+- **MySQL**: Stores book inventory, user data, and sales records.
+
+### 4. Set Up the Database:
+
+* Install MySQL and create a database named novel_nest.
+* Import the provided database.sql file to set up the schema and initial data.
+
+### 5. Configure the Application:
+
+* Update application.properties with your MySQL credentials.
+
+### 6. Run the Application:
+
+* Use your IDE or execute the following command:
+mvn spring-boot:run
+
+
+## 📝 Current Status
+* Phase: Active development.
+* Features: Basic functionalities are partially implemented. User and admin modules are under development.
+* Next Steps:
+- Complete user authentication and book purchase functionality.
+- Implement sales tracking and receipt generation.
 
   
-![Screenshot (85)](https://github.com/omkarkulkarni2704/BookshelfEmporium/assets/89896505/dc393a97-7475-42e8-adc7-35b13b62f821)
-![Screenshot (86)](https://github.com/omkarkulkarni2704/BookshelfEmporium/assets/89896505/7e93f3c4-546d-4bf9-a9df-e8306b8d9e70)
-![Screenshot (87)](https://github.com/omkarkulkarni2704/BookshelfEmporium/assets/89896505/c802c79d-c496-4a1c-8aaa-f92006b8f4ab)
+## 📷 Screenshots (Coming Soon)
+* Screenshots will be added as the project progresses.
 
+
+## 🤝 Contributing
+We welcome contributions from the community! Here's how you can contribute:
+
+* Fork the repository.
+* Open a pull request on GitHub.
+
+## 💬 Contact
+* Developer: [Omkar Kulkarni](https://github.com/omkarkulkarni2704)
+* Repository: [Novel Nest](https://github.com/omkarkulkarni2704/NovelNest)
+
+---
