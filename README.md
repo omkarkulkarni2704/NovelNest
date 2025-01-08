@@ -16,13 +16,13 @@
    - Automatically generated receipts for successful transactions.
 
 ### 🔧 For Administrators:
-1. **Book Management**:
+* **Book Management**:
    - Add new books to the inventory.
    - Update book details, including quantity and price.
    - Remove books from the catalog.
-2. **View Inventory**:
+* **View Inventory**:
    - Monitor all available books and their details.
-3. **Sales Tracking**:
+* **Sales Tracking**:
    - Maintain a record of book sales and history for better analysis and management.
 
 
