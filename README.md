@@ -46,17 +46,17 @@
 
 ### 4. Set Up the Database:
 
-* Install MySQL and create a database named novel_nest.
-* Import the provided database.sql file to set up the schema and initial data.
+* Install MySQL and create a database named ```novel_nest.```
+* Import the provided ```database.sql``` file to set up the schema and initial data.
 
 ### 5. Configure the Application:
 
-* Update application.properties with your MySQL credentials.
+* Update ```application.properties``` with your MySQL credentials.
 
 ### 6. Run the Application:
 
 * Use your IDE or execute the following command:
-mvn spring-boot:run
+```mvn spring-boot:run```
 
 
 ## 📝 Current Status
