@@ -63,8 +63,8 @@
 * Phase: Active development.
 * Features: Basic functionalities are partially implemented. User and admin modules are under development.
 * Next Steps:
-- Complete user authentication and book purchase functionality.
-- Implement sales tracking and receipt generation.
+  - Complete user authentication and book purchase functionality.
+  - Implement sales tracking and receipt generation.
 
   
 ## 📷 Screenshots (Coming Soon)
