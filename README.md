@@ -2,6 +2,7 @@
 
 **Novel Nest** is a user-friendly online bookstore where users can browse, select, and purchase books seamlessly. The platform supports both user and admin functionalities, enabling a smooth shopping experience for readers and efficient management for administrators.
 
+---
 
 ## 🌟 Key Features
 
@@ -25,6 +26,7 @@
 * **Sales Tracking**:
    - Maintain a record of book sales and history for better analysis and management.
 
+---
 
 ## 🛠️ Technologies Used
 
@@ -58,6 +60,7 @@
 * Use your IDE or execute the following command:
 ```mvn spring-boot:run```
 
+---
 
 ## 📝 Current Status
 * Phase: Active development.
