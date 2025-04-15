@@ -3,7 +3,7 @@
 ### **An e-commerce platform for book enthusiasts, where every story finds its reader.**              
          
     
-**Novel Nest** is a user-friendly online bookstore where users can browse, select, and purchase books seamlessly. The platform supports both user and admin functionalities, enabling a smooth shopping experience for readers and efficient management for administrators.   
+**Novel Nest** is a user-friendly online bookstore where users can browse, select, and purchase books seamlessly. The platform supports both user and admin functionalities, enabling a smooth shopping experience for readers and efficient management for administrators.       
 
 ---          
            
