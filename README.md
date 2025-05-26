@@ -12,7 +12,7 @@
 ### 🛍️ For Users:       
 *  **User Authentication**:
    - Secure login and registration system.
-*  **Browse and Purchase Books**: 
+*  **Browse and Purchase Books**:     
    - View the catalog of available books.
    - Select desired books and specify quantities.
    - Complete purchases using integrated payment options.
