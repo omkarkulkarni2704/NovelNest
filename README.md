@@ -57,7 +57,7 @@
 ### 5. Configure the Application:
 
 * Update ```application.properties``` with your MySQL credentials.
-
+   
 ### 6. Run the Application:
 
 * Use your IDE or execute the following command:
