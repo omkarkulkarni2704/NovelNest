@@ -72,16 +72,20 @@
   - Complete user authentication and book purchase functionality.
   - Implement sales tracking and receipt generation.
 
+---
   
 ## 📷 Screenshots (Coming Soon)
 * Screenshots will be added as the project progresses.
 
+---
 
 ## 🤝 Contributing
 We welcome contributions from the community! Here's how you can contribute:
 
 * Fork the repository.
 * Open a pull request on GitHub.
+
+---
 
 ## 💬 Contact
 * Developer: [Omkar Kulkarni](https://github.com/omkarkulkarni2704)
