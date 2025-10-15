@@ -65,6 +65,12 @@
 
 ---
 
+## System Architecture
+
+
+
+---
+
 ## 📝 Current Status
 * Phase: Active development.
 * Features: Basic functionalities are partially implemented. User and admin modules are under development.
