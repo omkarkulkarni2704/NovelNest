@@ -65,8 +65,9 @@
 
 ---
 
-## System Architecture
+## 🗃️ System Architecture
 
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/ac37ed0f-d911-4d37-aa7c-931c1dd5eae9" />
 
 
 ---
